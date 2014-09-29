@@ -7,7 +7,7 @@
   <name>SoftKeyboard</name>
   <description>Fork of the Android SoftKeyboard plugin that provides an additional method to programatically send a key press event.</description>
   <license>MIT</license>
-  <author>phonostar GmbH</author>
+  <author>phonostar GmbH / pgraham</author>
 
   <engines>
     <engine name="cordova" version=">=3.0.0"/>
